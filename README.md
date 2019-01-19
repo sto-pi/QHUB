@@ -1,20 +1,20 @@
-﻿# D94：[Ethernet通道](https://github.com/OS-Q/D94)
+﻿# D94：[Ethernet](https://github.com/OS-Q/D94)
 
 [![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 
-#### 归属通道转换：[W14](https://github.com/OS-Q/W14)
+#### 归属有线转换：[W14](https://github.com/OS-Q/W14)
 
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
-## [平台描述](https://github.com/OS-Q/D94/wiki) 
+## [设备描述](https://github.com/OS-Q/D94/wiki) 
 
-Ethernet通道设备，将其他各种MCU外设转换为Ethernet通信，实现有线入网或长传
+Ethernet通道设备，用于为其他设备提供Ethernet通信桥
 
 ### [资源](OS-Q/)
 
 #### [文档资料](docs/)
 
-包括主要的芯片手册，设计参考等
+主要的芯片手册和参考设计
 
 #### [工程代码](project/)
 
@@ -40,21 +40,18 @@ Ethernet通道设备，将其他各种MCU外设转换为Ethernet通信，实现�
 
 通过以太网转发数据，实现数据入网或者长距通信
 
-#### D95：[IR](https://github.com/OS-Q/D95)
+#### D95：[NULL](https://github.com/OS-Q/D95)
 
-将通信数据转换为IR信号发送，短距无线通信控制
 
-#### D96：[ISM-HF](https://github.com/OS-Q/D96)
+#### D96：[NULL](https://github.com/OS-Q/D96)
 
-将数据转换为高频ISM射频信号，实现近距离通信
 
-#### D97：[ISM-LF](https://github.com/OS-Q/D97)
 
-将数据转换为低频ISM射频信号，实现远距离通信
+#### D97：[NULL](https://github.com/OS-Q/D97)
 
-#### D98：[LoRa](https://github.com/OS-Q/D98)
 
-将数据转换为LoRa射频信号，实现广域无线通信
+
+#### D98：[NULL](https://github.com/OS-Q/D98)
 
 ---
 
